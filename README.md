@@ -4,6 +4,9 @@
   <a href="https://travis-ci.org/dpc/slog-rs">
       <img src="https://img.shields.io/travis/dpc/slog-rs/master.svg?style=flat-square" alt="Travis CI Build Status">
   </a>
+
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg?maxAge=2592000)](https://travis-ci.org/dpc/slog-rs)
+
   <a href="https://crates.io/crates/slog">
       <img src="http://meritbadge.herokuapp.com/slog?style=flat-square" alt="crates.io">
   </a>
